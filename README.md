@@ -2,7 +2,7 @@
 
 Loads the [BabylonJS Material Editor](https://nme.babylonjs.com) as a custom editor for `.babylon-material` files.
 
-![Screenshot](documentation/screenshot.png)
+![Screenshot](https://github.com/flostellbrink/vscode-babylonjs-material-editor/blob/main/documentation/screenshot.png)
 
 
 ## Debugging the extension

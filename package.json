@@ -1,7 +1,7 @@
 {
 	"name": "vscode-babylonjs-material-editor",
-	"displayName": "BabylonJS Material Editor",
-	"version": "0.0.1",
+	"displayName": "Babylon.js Material Editor",
+	"version": "0.0.3",
 	"publisher": "flostellbrink",
 	"license": "MIT",
 	"repository": {
@@ -20,7 +20,7 @@
 		"customEditors": [
 			{
 				"viewType": "babylonjs.material",
-				"displayName": "BabylonJS Material",
+				"displayName": "Babylon.js Material",
 				"selector": [
 					{
 						"filenamePattern": "*.babylon-material"

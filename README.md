@@ -1,6 +1,6 @@
-# VS-Code BabylonJS Material Editor Extension
+# VS Code Babylon.js Material Editor Extension
 
-Loads the [BabylonJS Material Editor](https://nme.babylonjs.com) as a custom editor for `.babylon-material` files.
+Loads the [Babylon.js Material Editor](https://nme.babylonjs.com) as a custom editor for `.babylon-material` files.
 
 ![Screenshot](https://github.com/flostellbrink/vscode-babylonjs-material-editor/blob/main/documentation/screenshot.png)
 

@@ -67,7 +67,7 @@ export class BabylonMaterialEditorProvider implements vscode.CustomTextEditorPro
 
 				<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-				<title>BabylonJS Material</title>
+				<title>Babylon.js Material</title>
 
 				<style>
 					body {
